@@ -1,0 +1,11 @@
+C:\Users\jonas\source\repos\Server_Service\Server_Service\bin\Debug\netcoreapp2.0\Server_Service.deps.json
+C:\Users\jonas\source\repos\Server_Service\Server_Service\bin\Debug\netcoreapp2.0\Server_Service.runtimeconfig.json
+C:\Users\jonas\source\repos\Server_Service\Server_Service\bin\Debug\netcoreapp2.0\Server_Service.runtimeconfig.dev.json
+C:\Users\jonas\source\repos\Server_Service\Server_Service\bin\Debug\netcoreapp2.0\Server_Service.dll
+C:\Users\jonas\source\repos\Server_Service\Server_Service\bin\Debug\netcoreapp2.0\Server_Service.pdb
+C:\Users\jonas\source\repos\Server_Service\Server_Service\obj\Debug\netcoreapp2.0\Server_Service.csprojAssemblyReference.cache
+C:\Users\jonas\source\repos\Server_Service\Server_Service\obj\Debug\netcoreapp2.0\Server_Service.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\Server_Service\Server_Service\obj\Debug\netcoreapp2.0\Server_Service.AssemblyInfoInputs.cache
+C:\Users\jonas\source\repos\Server_Service\Server_Service\obj\Debug\netcoreapp2.0\Server_Service.AssemblyInfo.cs
+C:\Users\jonas\source\repos\Server_Service\Server_Service\obj\Debug\netcoreapp2.0\Server_Service.dll
+C:\Users\jonas\source\repos\Server_Service\Server_Service\obj\Debug\netcoreapp2.0\Server_Service.pdb

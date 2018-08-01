@@ -1,0 +1,12 @@
+C:\Users\jonas\source\repos\NNToy\NNToyMNIST\bin\Release\NNToyMNIST.exe.config
+C:\Users\jonas\source\repos\NNToy\NNToyMNIST\bin\Release\NNToyMNIST.exe
+C:\Users\jonas\source\repos\NNToy\NNToyMNIST\bin\Release\NNToyMNIST.pdb
+C:\Users\jonas\source\repos\NNToy\NNToyMNIST\bin\Release\ToyNeuralNet.dll
+C:\Users\jonas\source\repos\NNToy\NNToyMNIST\bin\Release\MathNet.Numerics.dll
+C:\Users\jonas\source\repos\NNToy\NNToyMNIST\bin\Release\ToyNeuralNet.pdb
+C:\Users\jonas\source\repos\NNToy\NNToyMNIST\bin\Release\MathNet.Numerics.xml
+C:\Users\jonas\source\repos\NNToy\NNToyMNIST\obj\Release\NNToyMNIST.csprojAssemblyReference.cache
+C:\Users\jonas\source\repos\NNToy\NNToyMNIST\obj\Release\NNToyMNIST.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\NNToy\NNToyMNIST\obj\Release\NNToyMNIST.csproj.CopyComplete
+C:\Users\jonas\source\repos\NNToy\NNToyMNIST\obj\Release\NNToyMNIST.exe
+C:\Users\jonas\source\repos\NNToy\NNToyMNIST\obj\Release\NNToyMNIST.pdb

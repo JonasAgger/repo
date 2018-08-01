@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NNToy", "NNToy\NNToy.csproj", "{11F1EA79-3DAA-45D5-9C70-5BAAE0892F30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NNToyMNIST", "NNToyMNIST\NNToyMNIST.csproj", "{5783B0E2-D809-4C4A-8FF8-65CEA1E4AEAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyNeuralNet", "ToyNeuralNet\ToyNeuralNet.csproj", "{B2E6AAEF-8B18-4E2C-836E-C9AAA3710447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11F1EA79-3DAA-45D5-9C70-5BAAE0892F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F1EA79-3DAA-45D5-9C70-5BAAE0892F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F1EA79-3DAA-45D5-9C70-5BAAE0892F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F1EA79-3DAA-45D5-9C70-5BAAE0892F30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5783B0E2-D809-4C4A-8FF8-65CEA1E4AEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5783B0E2-D809-4C4A-8FF8-65CEA1E4AEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5783B0E2-D809-4C4A-8FF8-65CEA1E4AEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5783B0E2-D809-4C4A-8FF8-65CEA1E4AEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E6AAEF-8B18-4E2C-836E-C9AAA3710447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E6AAEF-8B18-4E2C-836E-C9AAA3710447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E6AAEF-8B18-4E2C-836E-C9AAA3710447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E6AAEF-8B18-4E2C-836E-C9AAA3710447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB68A2EA-F355-44B2-802F-432E606F5DF5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\jonas\source\repos\NNToy\NNToy\bin\Release\NNToy.exe.config
+C:\Users\jonas\source\repos\NNToy\NNToy\bin\Release\NNToy.exe
+C:\Users\jonas\source\repos\NNToy\NNToy\bin\Release\NNToy.pdb
+C:\Users\jonas\source\repos\NNToy\NNToy\bin\Release\MathNet.Numerics.dll
+C:\Users\jonas\source\repos\NNToy\NNToy\bin\Release\MathNet.Numerics.xml
+C:\Users\jonas\source\repos\NNToy\NNToy\obj\Release\NNToy.csprojAssemblyReference.cache
+C:\Users\jonas\source\repos\NNToy\NNToy\obj\Release\NNToy.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\NNToy\NNToy\obj\Release\NNToy.csproj.CopyComplete
+C:\Users\jonas\source\repos\NNToy\NNToy\obj\Release\NNToy.exe
+C:\Users\jonas\source\repos\NNToy\NNToy\obj\Release\NNToy.pdb
+C:\Users\jonas\source\repos\NNToy\NNToy\bin\Release\ToyNeuralNet.dll
+C:\Users\jonas\source\repos\NNToy\NNToy\bin\Release\ToyNeuralNet.pdb

@@ -1,0 +1,9 @@
+C:\Users\jonas\source\repos\NNToy\ToyNeuralNet\bin\Release\ToyNeuralNet.dll
+C:\Users\jonas\source\repos\NNToy\ToyNeuralNet\bin\Release\ToyNeuralNet.pdb
+C:\Users\jonas\source\repos\NNToy\ToyNeuralNet\bin\Release\MathNet.Numerics.dll
+C:\Users\jonas\source\repos\NNToy\ToyNeuralNet\bin\Release\MathNet.Numerics.xml
+C:\Users\jonas\source\repos\NNToy\ToyNeuralNet\obj\Release\ToyNeuralNet.csprojAssemblyReference.cache
+C:\Users\jonas\source\repos\NNToy\ToyNeuralNet\obj\Release\ToyNeuralNet.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\NNToy\ToyNeuralNet\obj\Release\ToyNeuralNet.csproj.CopyComplete
+C:\Users\jonas\source\repos\NNToy\ToyNeuralNet\obj\Release\ToyNeuralNet.dll
+C:\Users\jonas\source\repos\NNToy\ToyNeuralNet\obj\Release\ToyNeuralNet.pdb

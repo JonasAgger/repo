@@ -1,0 +1,17 @@
+C:\Users\jonas\source\repos\Server_Service2\VoiceChat\bin\Release\VoiceChat.exe.config
+C:\Users\jonas\source\repos\Server_Service2\VoiceChat\bin\Release\VoiceChat.exe
+C:\Users\jonas\source\repos\Server_Service2\VoiceChat\bin\Release\VoiceChat.pdb
+C:\Users\jonas\source\repos\Server_Service2\VoiceChat\bin\Release\NAudio.dll
+C:\Users\jonas\source\repos\Server_Service2\VoiceChat\bin\Release\NAudio.xml
+C:\Users\jonas\source\repos\Server_Service2\VoiceChat\obj\Release\VoiceChat.csprojAssemblyReference.cache
+C:\Users\jonas\source\repos\Server_Service2\VoiceChat\obj\Release\VoiceChat.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\Server_Service2\VoiceChat\obj\Release\VoiceChat.csproj.CopyComplete
+C:\Users\jonas\source\repos\Server_Service2\VoiceChat\obj\Release\VoiceChat.exe
+C:\Users\jonas\source\repos\Server_Service2\VoiceChat\obj\Release\VoiceChat.pdb
+C:\Users\jonas\source\repos\Server_Service2\VoiceChat\bin\Release\Concentus.dll
+C:\Users\jonas\source\repos\Server_Service2\VoiceChat\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonas\source\repos\Server_Service2\VoiceChat\bin\Release\System.IO.Compression.dll
+C:\Users\jonas\source\repos\Server_Service2\VoiceChat\bin\Release\System.Net.Http.dll
+C:\Users\jonas\source\repos\Server_Service2\VoiceChat\bin\Release\Concentus.pdb
+C:\Users\jonas\source\repos\Server_Service2\VoiceChat\bin\Release\Concentus.xml
+C:\Users\jonas\source\repos\Server_Service2\VoiceChat\bin\Release\System.Diagnostics.DiagnosticSource.xml
